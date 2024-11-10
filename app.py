@@ -7,9 +7,25 @@ import time
 from run_selenium import run_selenium
 import pickle
 from groq_api import Groq_API_Key
+from PIL import Image
 
+image = Image.open('logo.png')
+st.logo(image, size="large")
 #setting the app to be wide
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Skilluminati", page_icon="logo.ico", layout="wide")
+st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url("https://img.freepik.com/premium-vector/modern-dark-blue-abstract-geometric-background-with-dark-modern-triangle-texture-elegant-website-style-vector-design_116849-1059.jpg?semt=ais_hybrid");
+            background-size: cover;
+            background-color: rgba(0,0,0,0.6);
+            background-blend-mode: darken;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
 # Define the layout of the dashboard grid
 
 # =============================================================================
@@ -21,7 +37,19 @@ st.set_page_config(layout="wide")
 
 client = Groq(api_key=Groq_API_Key)
 
+st.write('<style>div.block-container{padding-top:0rem;}</style>', unsafe_allow_html=True)
+hide_streamlit_style = """
+            <style>
+                /* Hide the Streamlit header and menu */
+                header {visibility: hidden;}
+                /* Optionally, hide the footer */
+                .streamlit-footer {display: none;}
+                /* Hide your specific div class, replace class name with the one you identified */
+                .st-emotion-cache-uf99v8 {display: none;}
+            </style>
+            """
 
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 # Load CSS file
 with open(".streamlit/style.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
@@ -60,16 +88,16 @@ with col1:
 
     # Select type dropdown menu
 
-    options = ["--Select option-- (choose other)", "Future Job Title", "Core Desired Skills", "Career Growth"]
-    selected_option = st.selectbox("What kind of Upskilling are you looking for?", options, disabled = False)
+    options = ["--Select option--", "Future Job Title", "Core Desired Skills", "Career Growth"]
+    selected_option = st.selectbox("Select type(Dropdown menu)", options, disabled = False)
 
     job_titles = ["--Select option--"]
     job_title_file = open("job_titles.pkl", "rb")
     job_titles += pickle.load(job_title_file)
-    picked_title = st.selectbox("What job title do you see yourself in?", job_titles)
+    picked_title = st.selectbox("Select Job Title", job_titles)
 
     # Job description/roles input
-    option_content = st.text_area("Enter Job Description/Roles. Please try to be specific of the job role you strive to excel at!")
+    option_content = st.text_area("Enter Job Description/Roles")
 
     ################################################################################
 
@@ -173,10 +201,8 @@ with col1:
                 status_text.text(f"Processing... {i + 1}%")
                 
                 # Simulate some processing time
-                time.sleep(0.05)  # Adjust the sleep time to control speed
+                time.sleep(0.07)  # Adjust the sleep time to control speed
             # Finalize when done
-            status_text.text("Done!")
-            st.success("Processing completed!")
 
             search_results= search(f'Courses, datacamp, kaggle, coursera, udemy, freecodecamp, w3schools, aws skill builder: Courses for these skills: {ga}', advanced=True, num_results=10)
             for i in search_results:
@@ -192,7 +218,7 @@ with col1:
                         my lacking skills, 
                         write some lines describing each course: \n {web_list}\n
 
-                        You will start with the heading: "Helpful courses" in bold (markdown). The size of this heading should be big, underlined
+                        You will start with the heading: "Helpful courses" as a markdown title,
                             and links are to be generated on the NEXT LINE. Do not display to me those links that don't look like links to genuine courses to you.Don't even talk about it. Simply add description next to the link
                         in 1-2 sentences. then go to the next link on a *NEW LINE* and repeat.
                         Provided below is a thought process for you and should not be displayed by you.
@@ -221,15 +247,25 @@ with col1:
                         </response>
 
 
-                        After you are done with this, write a heading "Project Ideas" in bold (markdown) and increase the text size more than the project level titles. It should look
-                        like a heading. Your next mission is to provide relevant project ideas to help the user upskill. the projects should be from an 
+                        After you are done with this, write a heading "Project Ideas" as a markdown title. Our next mission is to provide relevant project ideas to help the user upskill. the projects should be from an 
                         easy level 1 project, moderate level 2 project, and a difficult level 3 project (3 projects in total).
                         """
                         }])
-            st.write(groq_resp.choices[0].message.content)
+            stre_n_weak = client.chat.completions.create(
+                    model="llama3-70b-8192",
+                    seed = 25,
+                    messages=[{"role":"user",
+                            "content": f"""
+                            Based on the extracted keywords from my resume: {ex}\n
+                            and skill gaps that I have: {ga}\n write abount my strengths first
+                            then weaknesses in bullet points. Write the headings of the lists as "Techinal Strengths" and "Areas to Improve on" as markdown titles
+                            """
+                            }])
+            status_text.text("Done!")
+            st.success("Processing completed!")
 
-            
-    st.divider()
+            st.write(stre_n_weak.choices[0].message.content+"\n\n"+groq_resp.choices[0].message.content)
+
 with col2:
     if gen_button:
         tables, maps= run_selenium(picked_title)
@@ -247,6 +283,6 @@ with col2:
             if "sw" in img or "se" in img:
                 st.image(img)
     
-                        
+st.divider()
 # Display footer or additional content as needed
 st.write(" ")
