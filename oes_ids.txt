@@ -1,0 +1,853 @@
+https://www.bls.gov/oes/current/oes110000.htm | Management Occupations | oes110000.htm
+https://www.bls.gov/oes/current/oes111011.htm | Chief Executives | oes111011.htm
+https://www.bls.gov/oes/current/oes111021.htm | General and Operations Managers | oes111021.htm
+https://www.bls.gov/oes/current/oes111031.htm | Legislators | oes111031.htm
+https://www.bls.gov/oes/current/oes112011.htm | Advertising and Promotions Managers | oes112011.htm
+https://www.bls.gov/oes/current/oes112021.htm | Marketing Managers | oes112021.htm
+https://www.bls.gov/oes/current/oes112022.htm | Sales Managers | oes112022.htm
+https://www.bls.gov/oes/current/oes112032.htm | Public Relations Managers | oes112032.htm
+https://www.bls.gov/oes/current/oes112033.htm | Fundraising Managers | oes112033.htm
+https://www.bls.gov/oes/current/oes113012.htm | Administrative Services Managers | oes113012.htm
+https://www.bls.gov/oes/current/oes113013.htm | Facilities Managers | oes113013.htm
+https://www.bls.gov/oes/current/oes113021.htm | Computer and Information Systems Managers | oes113021.htm
+https://www.bls.gov/oes/current/oes113031.htm | Financial Managers | oes113031.htm
+https://www.bls.gov/oes/current/oes113051.htm | Industrial Production Managers | oes113051.htm
+https://www.bls.gov/oes/current/oes113061.htm | Purchasing Managers | oes113061.htm
+https://www.bls.gov/oes/current/oes113071.htm | Transportation, Storage, and Distribution Managers | oes113071.htm
+https://www.bls.gov/oes/current/oes113111.htm | Compensation and Benefits Managers | oes113111.htm
+https://www.bls.gov/oes/current/oes113121.htm | Human Resources Managers | oes113121.htm
+https://www.bls.gov/oes/current/oes113131.htm | Training and Development Managers | oes113131.htm
+https://www.bls.gov/oes/current/oes119013.htm | Farmers, Ranchers, and Other Agricultural Managers | oes119013.htm
+https://www.bls.gov/oes/current/oes119021.htm | Construction Managers | oes119021.htm
+https://www.bls.gov/oes/current/oes119031.htm | Education and Childcare Administrators, Preschool and Daycare | oes119031.htm
+https://www.bls.gov/oes/current/oes119032.htm | Education Administrators, Kindergarten through Secondary | oes119032.htm
+https://www.bls.gov/oes/current/oes119033.htm | Education Administrators, Postsecondary | oes119033.htm
+https://www.bls.gov/oes/current/oes119039.htm | Education Administrators, All Other | oes119039.htm
+https://www.bls.gov/oes/current/oes119041.htm | Architectural and Engineering Managers | oes119041.htm
+https://www.bls.gov/oes/current/oes119051.htm | Food Service Managers | oes119051.htm
+https://www.bls.gov/oes/current/oes119071.htm | Gambling Managers | oes119071.htm
+https://www.bls.gov/oes/current/oes119072.htm | Entertainment and Recreation Managers, Except Gambling | oes119072.htm
+https://www.bls.gov/oes/current/oes119081.htm | Lodging Managers | oes119081.htm
+https://www.bls.gov/oes/current/oes119111.htm | Medical and Health Services Managers | oes119111.htm
+https://www.bls.gov/oes/current/oes119121.htm | Natural Sciences Managers | oes119121.htm
+https://www.bls.gov/oes/current/oes119131.htm | Postmasters and Mail Superintendents | oes119131.htm
+https://www.bls.gov/oes/current/oes119141.htm | Property, Real Estate, and Community Association Managers | oes119141.htm
+https://www.bls.gov/oes/current/oes119151.htm | Social and Community Service Managers | oes119151.htm
+https://www.bls.gov/oes/current/oes119161.htm | Emergency Management Directors | oes119161.htm
+https://www.bls.gov/oes/current/oes119171.htm | Funeral Home Managers | oes119171.htm
+https://www.bls.gov/oes/current/oes119179.htm | Personal Service Managers, All Other  | oes119179.htm
+https://www.bls.gov/oes/current/oes119199.htm | Managers, All Other | oes119199.htm
+https://www.bls.gov/oes/current/oes130000.htm | Business and Financial Operations Occupations | oes130000.htm
+https://www.bls.gov/oes/current/oes131011.htm | Agents and Business Managers of Artists, Performers, and Athletes | oes131011.htm
+https://www.bls.gov/oes/current/oes131020.htm | Buyers and Purchasing Agents  | oes131020.htm
+https://www.bls.gov/oes/current/oes131031.htm | Claims Adjusters, Examiners, and Investigators | oes131031.htm
+https://www.bls.gov/oes/current/oes131032.htm | Insurance Appraisers, Auto Damage | oes131032.htm
+https://www.bls.gov/oes/current/oes131041.htm | Compliance Officers | oes131041.htm
+https://www.bls.gov/oes/current/oes131051.htm | Cost Estimators | oes131051.htm
+https://www.bls.gov/oes/current/oes131071.htm | Human Resources Specialists | oes131071.htm
+https://www.bls.gov/oes/current/oes131074.htm | Farm Labor Contractors | oes131074.htm
+https://www.bls.gov/oes/current/oes131075.htm | Labor Relations Specialists | oes131075.htm
+https://www.bls.gov/oes/current/oes131081.htm | Logisticians | oes131081.htm
+https://www.bls.gov/oes/current/oes131082.htm | Project Management Specialists | oes131082.htm
+https://www.bls.gov/oes/current/oes131111.htm | Management Analysts | oes131111.htm
+https://www.bls.gov/oes/current/oes131121.htm | Meeting, Convention, and Event Planners | oes131121.htm
+https://www.bls.gov/oes/current/oes131131.htm | Fundraisers | oes131131.htm
+https://www.bls.gov/oes/current/oes131141.htm | Compensation, Benefits, and Job Analysis Specialists | oes131141.htm
+https://www.bls.gov/oes/current/oes131151.htm | Training and Development Specialists | oes131151.htm
+https://www.bls.gov/oes/current/oes131161.htm | Market Research Analysts and Marketing Specialists | oes131161.htm
+https://www.bls.gov/oes/current/oes131199.htm | Business Operations Specialists, All Other  | oes131199.htm
+https://www.bls.gov/oes/current/oes132011.htm | Accountants and Auditors | oes132011.htm
+https://www.bls.gov/oes/current/oes132020.htm | Property Appraisers and Assessors | oes132020.htm
+https://www.bls.gov/oes/current/oes132031.htm | Budget Analysts | oes132031.htm
+https://www.bls.gov/oes/current/oes132041.htm | Credit Analysts | oes132041.htm
+https://www.bls.gov/oes/current/oes132051.htm | Financial and Investment Analysts | oes132051.htm
+https://www.bls.gov/oes/current/oes132052.htm | Personal Financial Advisors | oes132052.htm
+https://www.bls.gov/oes/current/oes132053.htm | Insurance Underwriters | oes132053.htm
+https://www.bls.gov/oes/current/oes132054.htm | Financial Risk Specialists | oes132054.htm
+https://www.bls.gov/oes/current/oes132061.htm | Financial Examiners | oes132061.htm
+https://www.bls.gov/oes/current/oes132071.htm | Credit Counselors | oes132071.htm
+https://www.bls.gov/oes/current/oes132072.htm | Loan Officers | oes132072.htm
+https://www.bls.gov/oes/current/oes132081.htm | Tax Examiners and Collectors, and Revenue Agents | oes132081.htm
+https://www.bls.gov/oes/current/oes132082.htm | Tax Preparers | oes132082.htm
+https://www.bls.gov/oes/current/oes132099.htm | Financial Specialists, All Other  | oes132099.htm
+https://www.bls.gov/oes/current/oes150000.htm | Computer and Mathematical Occupations | oes150000.htm
+https://www.bls.gov/oes/current/oes151211.htm | Computer Systems Analysts  | oes151211.htm
+https://www.bls.gov/oes/current/oes151212.htm | Information Security Analysts  | oes151212.htm
+https://www.bls.gov/oes/current/oes151221.htm | Computer and Information Research Scientists  | oes151221.htm
+https://www.bls.gov/oes/current/oes151231.htm | Computer Network Support Specialists | oes151231.htm
+https://www.bls.gov/oes/current/oes151232.htm | Computer User Support Specialists  | oes151232.htm
+https://www.bls.gov/oes/current/oes151241.htm | Computer Network Architects | oes151241.htm
+https://www.bls.gov/oes/current/oes151242.htm | Database Administrators | oes151242.htm
+https://www.bls.gov/oes/current/oes151243.htm | Database Architects | oes151243.htm
+https://www.bls.gov/oes/current/oes151244.htm | Network and Computer Systems Administrators | oes151244.htm
+https://www.bls.gov/oes/current/oes151251.htm | Computer Programmers | oes151251.htm
+https://www.bls.gov/oes/current/oes151252.htm | Software Developers | oes151252.htm
+https://www.bls.gov/oes/current/oes151253.htm | Software Quality Assurance Analysts and Testers | oes151253.htm
+https://www.bls.gov/oes/current/oes151254.htm | Web Developers | oes151254.htm
+https://www.bls.gov/oes/current/oes151255.htm | Web and Digital Interface Designers | oes151255.htm
+https://www.bls.gov/oes/current/oes151299.htm | Computer Occupations, All Other | oes151299.htm
+https://www.bls.gov/oes/current/oes152011.htm | Actuaries | oes152011.htm
+https://www.bls.gov/oes/current/oes152021.htm | Mathematicians | oes152021.htm
+https://www.bls.gov/oes/current/oes152031.htm | Operations Research Analysts | oes152031.htm
+https://www.bls.gov/oes/current/oes152041.htm | Statisticians | oes152041.htm
+https://www.bls.gov/oes/current/oes152051.htm | Data Scientists | oes152051.htm
+https://www.bls.gov/oes/current/oes152099.htm | Mathematical Science Occupations, All Other | oes152099.htm
+https://www.bls.gov/oes/current/oes170000.htm | Architecture and Engineering Occupations | oes170000.htm
+https://www.bls.gov/oes/current/oes171011.htm | Architects, Except Landscape and Naval | oes171011.htm
+https://www.bls.gov/oes/current/oes171012.htm | Landscape Architects | oes171012.htm
+https://www.bls.gov/oes/current/oes171021.htm | Cartographers and Photogrammetrists | oes171021.htm
+https://www.bls.gov/oes/current/oes171022.htm | Surveyors | oes171022.htm
+https://www.bls.gov/oes/current/oes172011.htm | Aerospace Engineers | oes172011.htm
+https://www.bls.gov/oes/current/oes172021.htm | Agricultural Engineers | oes172021.htm
+https://www.bls.gov/oes/current/oes172031.htm | Bioengineers and Biomedical Engineers | oes172031.htm
+https://www.bls.gov/oes/current/oes172041.htm | Chemical Engineers | oes172041.htm
+https://www.bls.gov/oes/current/oes172051.htm | Civil Engineers | oes172051.htm
+https://www.bls.gov/oes/current/oes172061.htm | Computer Hardware Engineers | oes172061.htm
+https://www.bls.gov/oes/current/oes172071.htm | Electrical Engineers | oes172071.htm
+https://www.bls.gov/oes/current/oes172072.htm | Electronics Engineers, Except Computer | oes172072.htm
+https://www.bls.gov/oes/current/oes172081.htm | Environmental Engineers | oes172081.htm
+https://www.bls.gov/oes/current/oes172111.htm | Health and Safety Engineers, Except Mining Safety Engineers and Inspectors | oes172111.htm
+https://www.bls.gov/oes/current/oes172112.htm | Industrial Engineers | oes172112.htm
+https://www.bls.gov/oes/current/oes172121.htm | Marine Engineers and Naval Architects | oes172121.htm
+https://www.bls.gov/oes/current/oes172131.htm | Materials Engineers | oes172131.htm
+https://www.bls.gov/oes/current/oes172141.htm | Mechanical Engineers | oes172141.htm
+https://www.bls.gov/oes/current/oes172151.htm | Mining and Geological Engineers, Including Mining Safety Engineers | oes172151.htm
+https://www.bls.gov/oes/current/oes172161.htm | Nuclear Engineers | oes172161.htm
+https://www.bls.gov/oes/current/oes172171.htm | Petroleum Engineers | oes172171.htm
+https://www.bls.gov/oes/current/oes172199.htm | Engineers, All Other | oes172199.htm
+https://www.bls.gov/oes/current/oes173011.htm | Architectural and Civil Drafters | oes173011.htm
+https://www.bls.gov/oes/current/oes173012.htm | Electrical and Electronics Drafters | oes173012.htm
+https://www.bls.gov/oes/current/oes173013.htm | Mechanical Drafters | oes173013.htm
+https://www.bls.gov/oes/current/oes173019.htm | Drafters, All Other | oes173019.htm
+https://www.bls.gov/oes/current/oes173021.htm | Aerospace Engineering and Operations Technologists and Technicians | oes173021.htm
+https://www.bls.gov/oes/current/oes173022.htm | Civil Engineering Technologists and Technicians | oes173022.htm
+https://www.bls.gov/oes/current/oes173023.htm | Electrical and Electronic Engineering Technologists and Technicians | oes173023.htm
+https://www.bls.gov/oes/current/oes173024.htm | Electro-Mechanical and Mechatronics Technologists and Technicians | oes173024.htm
+https://www.bls.gov/oes/current/oes173025.htm | Environmental Engineering Technologists and Technicians | oes173025.htm
+https://www.bls.gov/oes/current/oes173026.htm | Industrial Engineering Technologists and Technicians | oes173026.htm
+https://www.bls.gov/oes/current/oes173027.htm | Mechanical Engineering Technologists and Technicians | oes173027.htm
+https://www.bls.gov/oes/current/oes173028.htm | Calibration Technologists and Technicians | oes173028.htm
+https://www.bls.gov/oes/current/oes173029.htm | Engineering Technologists and Technicians, Except Drafters, All Other | oes173029.htm
+https://www.bls.gov/oes/current/oes173031.htm | Surveying and Mapping Technicians | oes173031.htm
+https://www.bls.gov/oes/current/oes190000.htm | Life, Physical, and Social Science Occupations | oes190000.htm
+https://www.bls.gov/oes/current/oes191011.htm | Animal Scientists | oes191011.htm
+https://www.bls.gov/oes/current/oes191012.htm | Food Scientists and Technologists | oes191012.htm
+https://www.bls.gov/oes/current/oes191013.htm | Soil and Plant Scientists | oes191013.htm
+https://www.bls.gov/oes/current/oes191021.htm | Biochemists and Biophysicists | oes191021.htm
+https://www.bls.gov/oes/current/oes191022.htm | Microbiologists | oes191022.htm
+https://www.bls.gov/oes/current/oes191023.htm | Zoologists and Wildlife Biologists | oes191023.htm
+https://www.bls.gov/oes/current/oes191029.htm | Biological Scientists, All Other | oes191029.htm
+https://www.bls.gov/oes/current/oes191031.htm | Conservation Scientists | oes191031.htm
+https://www.bls.gov/oes/current/oes191032.htm | Foresters | oes191032.htm
+https://www.bls.gov/oes/current/oes191041.htm | Epidemiologists | oes191041.htm
+https://www.bls.gov/oes/current/oes191042.htm | Medical Scientists, Except Epidemiologists | oes191042.htm
+https://www.bls.gov/oes/current/oes191099.htm | Life Scientists, All Other | oes191099.htm
+https://www.bls.gov/oes/current/oes192011.htm | Astronomers | oes192011.htm
+https://www.bls.gov/oes/current/oes192012.htm | Physicists | oes192012.htm
+https://www.bls.gov/oes/current/oes192021.htm | Atmospheric and Space Scientists | oes192021.htm
+https://www.bls.gov/oes/current/oes192031.htm | Chemists | oes192031.htm
+https://www.bls.gov/oes/current/oes192032.htm | Materials Scientists | oes192032.htm
+https://www.bls.gov/oes/current/oes192041.htm | Environmental Scientists and Specialists, Including Health | oes192041.htm
+https://www.bls.gov/oes/current/oes192042.htm | Geoscientists, Except Hydrologists and Geographers | oes192042.htm
+https://www.bls.gov/oes/current/oes192043.htm | Hydrologists | oes192043.htm
+https://www.bls.gov/oes/current/oes192099.htm | Physical Scientists, All Other | oes192099.htm
+https://www.bls.gov/oes/current/oes193011.htm | Economists | oes193011.htm
+https://www.bls.gov/oes/current/oes193022.htm | Survey Researchers | oes193022.htm
+https://www.bls.gov/oes/current/oes193032.htm | Industrial-Organizational Psychologists | oes193032.htm
+https://www.bls.gov/oes/current/oes193033.htm | Clinical and Counseling Psychologists | oes193033.htm
+https://www.bls.gov/oes/current/oes193034.htm | School Psychologists | oes193034.htm
+https://www.bls.gov/oes/current/oes193039.htm | Psychologists, All Other | oes193039.htm
+https://www.bls.gov/oes/current/oes193041.htm | Sociologists | oes193041.htm
+https://www.bls.gov/oes/current/oes193051.htm | Urban and Regional Planners | oes193051.htm
+https://www.bls.gov/oes/current/oes193091.htm | Anthropologists and Archeologists | oes193091.htm
+https://www.bls.gov/oes/current/oes193092.htm | Geographers | oes193092.htm
+https://www.bls.gov/oes/current/oes193093.htm | Historians | oes193093.htm
+https://www.bls.gov/oes/current/oes193094.htm | Political Scientists | oes193094.htm
+https://www.bls.gov/oes/current/oes193099.htm | Social Scientists and Related Workers, All Other | oes193099.htm
+https://www.bls.gov/oes/current/oes194012.htm | Agricultural Technicians | oes194012.htm
+https://www.bls.gov/oes/current/oes194013.htm | Food Science Technicians | oes194013.htm
+https://www.bls.gov/oes/current/oes194021.htm | Biological Technicians | oes194021.htm
+https://www.bls.gov/oes/current/oes194031.htm | Chemical Technicians | oes194031.htm
+https://www.bls.gov/oes/current/oes194042.htm | Environmental Science and Protection Technicians, Including Health | oes194042.htm
+https://www.bls.gov/oes/current/oes194043.htm | Geological Technicians, Except Hydrologic Technicians | oes194043.htm
+https://www.bls.gov/oes/current/oes194044.htm | Hydrologic Technicians | oes194044.htm
+https://www.bls.gov/oes/current/oes194051.htm | Nuclear Technicians | oes194051.htm
+https://www.bls.gov/oes/current/oes194061.htm | Social Science Research Assistants | oes194061.htm
+https://www.bls.gov/oes/current/oes194071.htm | Forest and Conservation Technicians  | oes194071.htm
+https://www.bls.gov/oes/current/oes194092.htm | Forensic Science Technicians | oes194092.htm
+https://www.bls.gov/oes/current/oes194099.htm | Life, Physical, and Social Science Technicians, All Other | oes194099.htm
+https://www.bls.gov/oes/current/oes195011.htm | Occupational Health and Safety Specialists | oes195011.htm
+https://www.bls.gov/oes/current/oes195012.htm | Occupational Health and Safety Technicians | oes195012.htm
+https://www.bls.gov/oes/current/oes210000.htm | Community and Social Service Occupations | oes210000.htm
+https://www.bls.gov/oes/current/oes211012.htm | Educational, Guidance, and Career Counselors and Advisors | oes211012.htm
+https://www.bls.gov/oes/current/oes211013.htm | Marriage and Family Therapists | oes211013.htm
+https://www.bls.gov/oes/current/oes211015.htm | Rehabilitation Counselors | oes211015.htm
+https://www.bls.gov/oes/current/oes211018.htm | Substance Abuse, Behavioral Disorder, and Mental Health Counselors | oes211018.htm
+https://www.bls.gov/oes/current/oes211019.htm | Counselors, All Other | oes211019.htm
+https://www.bls.gov/oes/current/oes211021.htm | Child, Family, and School Social Workers | oes211021.htm
+https://www.bls.gov/oes/current/oes211022.htm | Healthcare Social Workers | oes211022.htm
+https://www.bls.gov/oes/current/oes211023.htm | Mental Health and Substance Abuse Social Workers | oes211023.htm
+https://www.bls.gov/oes/current/oes211029.htm | Social Workers, All Other | oes211029.htm
+https://www.bls.gov/oes/current/oes211091.htm | Health Education Specialists | oes211091.htm
+https://www.bls.gov/oes/current/oes211092.htm | Probation Officers and Correctional Treatment Specialists | oes211092.htm
+https://www.bls.gov/oes/current/oes211093.htm | Social and Human Service Assistants | oes211093.htm
+https://www.bls.gov/oes/current/oes211094.htm | Community Health Workers | oes211094.htm
+https://www.bls.gov/oes/current/oes211099.htm | Community and Social Service Specialists, All Other | oes211099.htm
+https://www.bls.gov/oes/current/oes212011.htm | Clergy | oes212011.htm
+https://www.bls.gov/oes/current/oes212021.htm | Directors, Religious Activities and Education | oes212021.htm
+https://www.bls.gov/oes/current/oes212099.htm | Religious Workers, All Other | oes212099.htm
+https://www.bls.gov/oes/current/oes230000.htm | Legal Occupations | oes230000.htm
+https://www.bls.gov/oes/current/oes231011.htm | Lawyers | oes231011.htm
+https://www.bls.gov/oes/current/oes231012.htm | Judicial Law Clerks | oes231012.htm
+https://www.bls.gov/oes/current/oes231021.htm | Administrative Law Judges, Adjudicators, and Hearing Officers | oes231021.htm
+https://www.bls.gov/oes/current/oes231022.htm | Arbitrators, Mediators, and Conciliators | oes231022.htm
+https://www.bls.gov/oes/current/oes231023.htm | Judges, Magistrate Judges, and Magistrates | oes231023.htm
+https://www.bls.gov/oes/current/oes232011.htm | Paralegals and Legal Assistants | oes232011.htm
+https://www.bls.gov/oes/current/oes232093.htm | Title Examiners, Abstractors, and Searchers | oes232093.htm
+https://www.bls.gov/oes/current/oes232099.htm | Legal Support Workers, All Other | oes232099.htm
+https://www.bls.gov/oes/current/oes250000.htm | Educational Instruction and Library Occupations  | oes250000.htm
+https://www.bls.gov/oes/current/oes251011.htm | Business Teachers, Postsecondary | oes251011.htm
+https://www.bls.gov/oes/current/oes251021.htm | Computer Science Teachers, Postsecondary | oes251021.htm
+https://www.bls.gov/oes/current/oes251022.htm | Mathematical Science Teachers, Postsecondary | oes251022.htm
+https://www.bls.gov/oes/current/oes251031.htm | Architecture Teachers, Postsecondary | oes251031.htm
+https://www.bls.gov/oes/current/oes251032.htm | Engineering Teachers, Postsecondary | oes251032.htm
+https://www.bls.gov/oes/current/oes251041.htm | Agricultural Sciences Teachers, Postsecondary | oes251041.htm
+https://www.bls.gov/oes/current/oes251042.htm | Biological Science Teachers, Postsecondary | oes251042.htm
+https://www.bls.gov/oes/current/oes251043.htm | Forestry and Conservation Science Teachers, Postsecondary | oes251043.htm
+https://www.bls.gov/oes/current/oes251051.htm | Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary | oes251051.htm
+https://www.bls.gov/oes/current/oes251052.htm | Chemistry Teachers, Postsecondary | oes251052.htm
+https://www.bls.gov/oes/current/oes251053.htm | Environmental Science Teachers, Postsecondary | oes251053.htm
+https://www.bls.gov/oes/current/oes251054.htm | Physics Teachers, Postsecondary | oes251054.htm
+https://www.bls.gov/oes/current/oes251061.htm | Anthropology and Archeology Teachers, Postsecondary | oes251061.htm
+https://www.bls.gov/oes/current/oes251062.htm | Area, Ethnic, and Cultural Studies Teachers, Postsecondary | oes251062.htm
+https://www.bls.gov/oes/current/oes251063.htm | Economics Teachers, Postsecondary | oes251063.htm
+https://www.bls.gov/oes/current/oes251064.htm | Geography Teachers, Postsecondary | oes251064.htm
+https://www.bls.gov/oes/current/oes251065.htm | Political Science Teachers, Postsecondary | oes251065.htm
+https://www.bls.gov/oes/current/oes251066.htm | Psychology Teachers, Postsecondary | oes251066.htm
+https://www.bls.gov/oes/current/oes251067.htm | Sociology Teachers, Postsecondary | oes251067.htm
+https://www.bls.gov/oes/current/oes251069.htm | Social Sciences Teachers, Postsecondary, All Other | oes251069.htm
+https://www.bls.gov/oes/current/oes251071.htm | Health Specialties Teachers, Postsecondary | oes251071.htm
+https://www.bls.gov/oes/current/oes251072.htm | Nursing Instructors and Teachers, Postsecondary | oes251072.htm
+https://www.bls.gov/oes/current/oes251081.htm | Education Teachers, Postsecondary | oes251081.htm
+https://www.bls.gov/oes/current/oes251082.htm | Library Science Teachers, Postsecondary | oes251082.htm
+https://www.bls.gov/oes/current/oes251111.htm | Criminal Justice and Law Enforcement Teachers, Postsecondary | oes251111.htm
+https://www.bls.gov/oes/current/oes251112.htm | Law Teachers, Postsecondary | oes251112.htm
+https://www.bls.gov/oes/current/oes251113.htm | Social Work Teachers, Postsecondary | oes251113.htm
+https://www.bls.gov/oes/current/oes251121.htm | Art, Drama, and Music Teachers, Postsecondary | oes251121.htm
+https://www.bls.gov/oes/current/oes251122.htm | Communications Teachers, Postsecondary | oes251122.htm
+https://www.bls.gov/oes/current/oes251123.htm | English Language and Literature Teachers, Postsecondary | oes251123.htm
+https://www.bls.gov/oes/current/oes251124.htm | Foreign Language and Literature Teachers, Postsecondary | oes251124.htm
+https://www.bls.gov/oes/current/oes251125.htm | History Teachers, Postsecondary | oes251125.htm
+https://www.bls.gov/oes/current/oes251126.htm | Philosophy and Religion Teachers, Postsecondary | oes251126.htm
+https://www.bls.gov/oes/current/oes251192.htm | Family and Consumer Sciences Teachers, Postsecondary  | oes251192.htm
+https://www.bls.gov/oes/current/oes251193.htm | Recreation and Fitness Studies Teachers, Postsecondary | oes251193.htm
+https://www.bls.gov/oes/current/oes251194.htm | Career/Technical Education Teachers, Postsecondary  | oes251194.htm
+https://www.bls.gov/oes/current/oes251199.htm | Postsecondary Teachers, All Other | oes251199.htm
+https://www.bls.gov/oes/current/oes252011.htm | Preschool Teachers, Except Special Education | oes252011.htm
+https://www.bls.gov/oes/current/oes252012.htm | Kindergarten Teachers, Except Special Education | oes252012.htm
+https://www.bls.gov/oes/current/oes252021.htm | Elementary School Teachers, Except Special Education | oes252021.htm
+https://www.bls.gov/oes/current/oes252022.htm | Middle School Teachers, Except Special and Career/Technical Education | oes252022.htm
+https://www.bls.gov/oes/current/oes252023.htm | Career/Technical Education Teachers, Middle School | oes252023.htm
+https://www.bls.gov/oes/current/oes252031.htm | Secondary School Teachers, Except Special and Career/Technical Education | oes252031.htm
+https://www.bls.gov/oes/current/oes252032.htm | Career/Technical Education Teachers, Secondary School | oes252032.htm
+https://www.bls.gov/oes/current/oes252051.htm | Special Education Teachers, Preschool | oes252051.htm
+https://www.bls.gov/oes/current/oes252052.htm | Special Education Teachers, Kindergarten and Elementary School | oes252052.htm
+https://www.bls.gov/oes/current/oes252057.htm | Special Education Teachers, Middle School | oes252057.htm
+https://www.bls.gov/oes/current/oes252058.htm | Special Education Teachers, Secondary School | oes252058.htm
+https://www.bls.gov/oes/current/oes252059.htm | Special Education Teachers, All Other | oes252059.htm
+https://www.bls.gov/oes/current/oes253011.htm | Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors | oes253011.htm
+https://www.bls.gov/oes/current/oes253021.htm | Self-Enrichment Teachers | oes253021.htm
+https://www.bls.gov/oes/current/oes253031.htm | Substitute Teachers, Short-Term  | oes253031.htm
+https://www.bls.gov/oes/current/oes253041.htm | Tutors  | oes253041.htm
+https://www.bls.gov/oes/current/oes253099.htm | Teachers and Instructors, All Other  | oes253099.htm
+https://www.bls.gov/oes/current/oes254011.htm | Archivists | oes254011.htm
+https://www.bls.gov/oes/current/oes254012.htm | Curators | oes254012.htm
+https://www.bls.gov/oes/current/oes254013.htm | Museum Technicians and Conservators | oes254013.htm
+https://www.bls.gov/oes/current/oes254022.htm | Librarians and Media Collections Specialists | oes254022.htm
+https://www.bls.gov/oes/current/oes254031.htm | Library Technicians | oes254031.htm
+https://www.bls.gov/oes/current/oes259021.htm | Farm and Home Management Educators | oes259021.htm
+https://www.bls.gov/oes/current/oes259031.htm | Instructional Coordinators | oes259031.htm
+https://www.bls.gov/oes/current/oes259044.htm | Teaching Assistants, Postsecondary | oes259044.htm
+https://www.bls.gov/oes/current/oes259045.htm | Teaching Assistants, Except Postsecondary | oes259045.htm
+https://www.bls.gov/oes/current/oes259099.htm | Educational Instruction and Library Workers, All Other | oes259099.htm
+https://www.bls.gov/oes/current/oes270000.htm | Arts, Design, Entertainment, Sports, and Media Occupations | oes270000.htm
+https://www.bls.gov/oes/current/oes271011.htm | Art Directors | oes271011.htm
+https://www.bls.gov/oes/current/oes271012.htm | Craft Artists | oes271012.htm
+https://www.bls.gov/oes/current/oes271013.htm | Fine Artists, Including Painters, Sculptors, and Illustrators | oes271013.htm
+https://www.bls.gov/oes/current/oes271014.htm | Special Effects Artists and Animators  | oes271014.htm
+https://www.bls.gov/oes/current/oes271019.htm | Artists and Related Workers, All Other | oes271019.htm
+https://www.bls.gov/oes/current/oes271021.htm | Commercial and Industrial Designers | oes271021.htm
+https://www.bls.gov/oes/current/oes271022.htm | Fashion Designers | oes271022.htm
+https://www.bls.gov/oes/current/oes271023.htm | Floral Designers | oes271023.htm
+https://www.bls.gov/oes/current/oes271024.htm | Graphic Designers | oes271024.htm
+https://www.bls.gov/oes/current/oes271025.htm | Interior Designers | oes271025.htm
+https://www.bls.gov/oes/current/oes271026.htm | Merchandise Displayers and Window Trimmers | oes271026.htm
+https://www.bls.gov/oes/current/oes271027.htm | Set and Exhibit Designers | oes271027.htm
+https://www.bls.gov/oes/current/oes271029.htm | Designers, All Other | oes271029.htm
+https://www.bls.gov/oes/current/oes272011.htm | Actors | oes272011.htm
+https://www.bls.gov/oes/current/oes272012.htm | Producers and Directors | oes272012.htm
+https://www.bls.gov/oes/current/oes272021.htm | Athletes and Sports Competitors | oes272021.htm
+https://www.bls.gov/oes/current/oes272022.htm | Coaches and Scouts | oes272022.htm
+https://www.bls.gov/oes/current/oes272023.htm | Umpires, Referees, and Other Sports Officials | oes272023.htm
+https://www.bls.gov/oes/current/oes272031.htm | Dancers | oes272031.htm
+https://www.bls.gov/oes/current/oes272032.htm | Choreographers | oes272032.htm
+https://www.bls.gov/oes/current/oes272041.htm | Music Directors and Composers | oes272041.htm
+https://www.bls.gov/oes/current/oes272042.htm | Musicians and Singers | oes272042.htm
+https://www.bls.gov/oes/current/oes272091.htm | Disc Jockeys, Except Radio  | oes272091.htm
+https://www.bls.gov/oes/current/oes272099.htm | Entertainers and Performers, Sports and Related Workers, All Other  | oes272099.htm
+https://www.bls.gov/oes/current/oes273011.htm | Broadcast Announcers and Radio Disc Jockeys  | oes273011.htm
+https://www.bls.gov/oes/current/oes273023.htm | News Analysts, Reporters, and Journalists  | oes273023.htm
+https://www.bls.gov/oes/current/oes273031.htm | Public Relations Specialists | oes273031.htm
+https://www.bls.gov/oes/current/oes273041.htm | Editors | oes273041.htm
+https://www.bls.gov/oes/current/oes273042.htm | Technical Writers | oes273042.htm
+https://www.bls.gov/oes/current/oes273043.htm | Writers and Authors | oes273043.htm
+https://www.bls.gov/oes/current/oes273091.htm | Interpreters and Translators | oes273091.htm
+https://www.bls.gov/oes/current/oes273092.htm | Court Reporters and Simultaneous Captioners  | oes273092.htm
+https://www.bls.gov/oes/current/oes273099.htm | Media and Communication Workers, All Other | oes273099.htm
+https://www.bls.gov/oes/current/oes274011.htm | Audio and Video Technicians  | oes274011.htm
+https://www.bls.gov/oes/current/oes274012.htm | Broadcast Technicians | oes274012.htm
+https://www.bls.gov/oes/current/oes274014.htm | Sound Engineering Technicians | oes274014.htm
+https://www.bls.gov/oes/current/oes274015.htm | Lighting Technicians | oes274015.htm
+https://www.bls.gov/oes/current/oes274021.htm | Photographers | oes274021.htm
+https://www.bls.gov/oes/current/oes274031.htm | Camera Operators, Television, Video, and Film  | oes274031.htm
+https://www.bls.gov/oes/current/oes274032.htm | Film and Video Editors | oes274032.htm
+https://www.bls.gov/oes/current/oes274099.htm | Media and Communication Equipment Workers, All Other  | oes274099.htm
+https://www.bls.gov/oes/current/oes290000.htm | Healthcare Practitioners and Technical Occupations | oes290000.htm
+https://www.bls.gov/oes/current/oes291011.htm | Chiropractors | oes291011.htm
+https://www.bls.gov/oes/current/oes291021.htm | Dentists, General | oes291021.htm
+https://www.bls.gov/oes/current/oes291022.htm | Oral and Maxillofacial Surgeons | oes291022.htm
+https://www.bls.gov/oes/current/oes291023.htm | Orthodontists | oes291023.htm
+https://www.bls.gov/oes/current/oes291024.htm | Prosthodontists | oes291024.htm
+https://www.bls.gov/oes/current/oes291029.htm | Dentists, All Other Specialists | oes291029.htm
+https://www.bls.gov/oes/current/oes291031.htm | Dietitians and Nutritionists | oes291031.htm
+https://www.bls.gov/oes/current/oes291041.htm | Optometrists | oes291041.htm
+https://www.bls.gov/oes/current/oes291051.htm | Pharmacists | oes291051.htm
+https://www.bls.gov/oes/current/oes291071.htm | Physician Assistants | oes291071.htm
+https://www.bls.gov/oes/current/oes291081.htm | Podiatrists | oes291081.htm
+https://www.bls.gov/oes/current/oes291122.htm | Occupational Therapists | oes291122.htm
+https://www.bls.gov/oes/current/oes291123.htm | Physical Therapists | oes291123.htm
+https://www.bls.gov/oes/current/oes291124.htm | Radiation Therapists | oes291124.htm
+https://www.bls.gov/oes/current/oes291125.htm | Recreational Therapists | oes291125.htm
+https://www.bls.gov/oes/current/oes291126.htm | Respiratory Therapists | oes291126.htm
+https://www.bls.gov/oes/current/oes291127.htm | Speech-Language Pathologists | oes291127.htm
+https://www.bls.gov/oes/current/oes291128.htm | Exercise Physiologists | oes291128.htm
+https://www.bls.gov/oes/current/oes291129.htm | Therapists, All Other | oes291129.htm
+https://www.bls.gov/oes/current/oes291131.htm | Veterinarians | oes291131.htm
+https://www.bls.gov/oes/current/oes291141.htm | Registered Nurses | oes291141.htm
+https://www.bls.gov/oes/current/oes291151.htm | Nurse Anesthetists | oes291151.htm
+https://www.bls.gov/oes/current/oes291161.htm | Nurse Midwives | oes291161.htm
+https://www.bls.gov/oes/current/oes291171.htm | Nurse Practitioners | oes291171.htm
+https://www.bls.gov/oes/current/oes291181.htm | Audiologists | oes291181.htm
+https://www.bls.gov/oes/current/oes291211.htm | Anesthesiologists | oes291211.htm
+https://www.bls.gov/oes/current/oes291212.htm | Cardiologists | oes291212.htm
+https://www.bls.gov/oes/current/oes291213.htm | Dermatologists | oes291213.htm
+https://www.bls.gov/oes/current/oes291214.htm | Emergency Medicine Physicians | oes291214.htm
+https://www.bls.gov/oes/current/oes291215.htm | Family Medicine Physicians | oes291215.htm
+https://www.bls.gov/oes/current/oes291216.htm | General Internal Medicine Physicians | oes291216.htm
+https://www.bls.gov/oes/current/oes291217.htm | Neurologists | oes291217.htm
+https://www.bls.gov/oes/current/oes291218.htm | Obstetricians and Gynecologists | oes291218.htm
+https://www.bls.gov/oes/current/oes291221.htm | Pediatricians, General | oes291221.htm
+https://www.bls.gov/oes/current/oes291222.htm | Physicians, Pathologists | oes291222.htm
+https://www.bls.gov/oes/current/oes291223.htm | Psychiatrists | oes291223.htm
+https://www.bls.gov/oes/current/oes291224.htm | Radiologists | oes291224.htm
+https://www.bls.gov/oes/current/oes291229.htm | Physicians, All Other | oes291229.htm
+https://www.bls.gov/oes/current/oes291241.htm | Ophthalmologists, Except Pediatric | oes291241.htm
+https://www.bls.gov/oes/current/oes291242.htm | Orthopedic Surgeons, Except Pediatric | oes291242.htm
+https://www.bls.gov/oes/current/oes291243.htm | Pediatric Surgeons | oes291243.htm
+https://www.bls.gov/oes/current/oes291249.htm | Surgeons, All Other | oes291249.htm
+https://www.bls.gov/oes/current/oes291291.htm | Acupuncturists | oes291291.htm
+https://www.bls.gov/oes/current/oes291292.htm | Dental Hygienists | oes291292.htm
+https://www.bls.gov/oes/current/oes291299.htm | Healthcare Diagnosing or Treating Practitioners, All Other | oes291299.htm
+https://www.bls.gov/oes/current/oes292010.htm | Clinical Laboratory Technologists and Technicians | oes292010.htm
+https://www.bls.gov/oes/current/oes292031.htm | Cardiovascular Technologists and Technicians | oes292031.htm
+https://www.bls.gov/oes/current/oes292032.htm | Diagnostic Medical Sonographers | oes292032.htm
+https://www.bls.gov/oes/current/oes292033.htm | Nuclear Medicine Technologists | oes292033.htm
+https://www.bls.gov/oes/current/oes292034.htm | Radiologic Technologists and Technicians | oes292034.htm
+https://www.bls.gov/oes/current/oes292035.htm | Magnetic Resonance Imaging Technologists | oes292035.htm
+https://www.bls.gov/oes/current/oes292036.htm | Medical Dosimetrists | oes292036.htm
+https://www.bls.gov/oes/current/oes292042.htm | Emergency Medical Technicians | oes292042.htm
+https://www.bls.gov/oes/current/oes292043.htm | Paramedics | oes292043.htm
+https://www.bls.gov/oes/current/oes292051.htm | Dietetic Technicians | oes292051.htm
+https://www.bls.gov/oes/current/oes292052.htm | Pharmacy Technicians | oes292052.htm
+https://www.bls.gov/oes/current/oes292053.htm | Psychiatric Technicians | oes292053.htm
+https://www.bls.gov/oes/current/oes292055.htm | Surgical Technologists | oes292055.htm
+https://www.bls.gov/oes/current/oes292056.htm | Veterinary Technologists and Technicians | oes292056.htm
+https://www.bls.gov/oes/current/oes292057.htm | Ophthalmic Medical Technicians | oes292057.htm
+https://www.bls.gov/oes/current/oes292061.htm | Licensed Practical and Licensed Vocational Nurses | oes292061.htm
+https://www.bls.gov/oes/current/oes292072.htm | Medical Records Specialists | oes292072.htm
+https://www.bls.gov/oes/current/oes292081.htm | Opticians, Dispensing | oes292081.htm
+https://www.bls.gov/oes/current/oes292091.htm | Orthotists and Prosthetists | oes292091.htm
+https://www.bls.gov/oes/current/oes292092.htm | Hearing Aid Specialists | oes292092.htm
+https://www.bls.gov/oes/current/oes292099.htm | Health Technologists and Technicians, All Other  | oes292099.htm
+https://www.bls.gov/oes/current/oes299021.htm | Health Information Technologists and Medical Registrars | oes299021.htm
+https://www.bls.gov/oes/current/oes299091.htm | Athletic Trainers | oes299091.htm
+https://www.bls.gov/oes/current/oes299092.htm | Genetic Counselors | oes299092.htm
+https://www.bls.gov/oes/current/oes299093.htm | Surgical Assistants | oes299093.htm
+https://www.bls.gov/oes/current/oes299099.htm | Healthcare Practitioners and Technical Workers, All Other  | oes299099.htm
+https://www.bls.gov/oes/current/oes310000.htm | Healthcare Support Occupations | oes310000.htm
+https://www.bls.gov/oes/current/oes311120.htm | Home Health and Personal Care Aides | oes311120.htm
+https://www.bls.gov/oes/current/oes311131.htm | Nursing Assistants | oes311131.htm
+https://www.bls.gov/oes/current/oes311132.htm | Orderlies | oes311132.htm
+https://www.bls.gov/oes/current/oes311133.htm | Psychiatric Aides | oes311133.htm
+https://www.bls.gov/oes/current/oes312011.htm | Occupational Therapy Assistants | oes312011.htm
+https://www.bls.gov/oes/current/oes312012.htm | Occupational Therapy Aides | oes312012.htm
+https://www.bls.gov/oes/current/oes312021.htm | Physical Therapist Assistants | oes312021.htm
+https://www.bls.gov/oes/current/oes312022.htm | Physical Therapist Aides | oes312022.htm
+https://www.bls.gov/oes/current/oes319011.htm | Massage Therapists | oes319011.htm
+https://www.bls.gov/oes/current/oes319091.htm | Dental Assistants | oes319091.htm
+https://www.bls.gov/oes/current/oes319092.htm | Medical Assistants | oes319092.htm
+https://www.bls.gov/oes/current/oes319093.htm | Medical Equipment Preparers | oes319093.htm
+https://www.bls.gov/oes/current/oes319094.htm | Medical Transcriptionists | oes319094.htm
+https://www.bls.gov/oes/current/oes319095.htm | Pharmacy Aides | oes319095.htm
+https://www.bls.gov/oes/current/oes319096.htm | Veterinary Assistants and Laboratory Animal Caretakers | oes319096.htm
+https://www.bls.gov/oes/current/oes319097.htm | Phlebotomists | oes319097.htm
+https://www.bls.gov/oes/current/oes319099.htm | Healthcare Support Workers, All Other | oes319099.htm
+https://www.bls.gov/oes/current/oes330000.htm | Protective Service Occupations | oes330000.htm
+https://www.bls.gov/oes/current/oes331011.htm | First-Line Supervisors of Correctional Officers | oes331011.htm
+https://www.bls.gov/oes/current/oes331012.htm | First-Line Supervisors of Police and Detectives | oes331012.htm
+https://www.bls.gov/oes/current/oes331021.htm | First-Line Supervisors of Firefighting and Prevention Workers | oes331021.htm
+https://www.bls.gov/oes/current/oes331091.htm | First-Line Supervisors of Security Workers | oes331091.htm
+https://www.bls.gov/oes/current/oes331099.htm | First-Line Supervisors of Protective Service Workers, All Other | oes331099.htm
+https://www.bls.gov/oes/current/oes332011.htm | Firefighters | oes332011.htm
+https://www.bls.gov/oes/current/oes332021.htm | Fire Inspectors and Investigators | oes332021.htm
+https://www.bls.gov/oes/current/oes332022.htm | Forest Fire Inspectors and Prevention Specialists | oes332022.htm
+https://www.bls.gov/oes/current/oes333011.htm | Bailiffs | oes333011.htm
+https://www.bls.gov/oes/current/oes333012.htm | Correctional Officers and Jailers | oes333012.htm
+https://www.bls.gov/oes/current/oes333021.htm | Detectives and Criminal Investigators | oes333021.htm
+https://www.bls.gov/oes/current/oes333031.htm | Fish and Game Wardens | oes333031.htm
+https://www.bls.gov/oes/current/oes333041.htm | Parking Enforcement Workers | oes333041.htm
+https://www.bls.gov/oes/current/oes333051.htm | Police and Sheriff's Patrol Officers | oes333051.htm
+https://www.bls.gov/oes/current/oes333052.htm | Transit and Railroad Police | oes333052.htm
+https://www.bls.gov/oes/current/oes339011.htm | Animal Control Workers | oes339011.htm
+https://www.bls.gov/oes/current/oes339021.htm | Private Detectives and Investigators | oes339021.htm
+https://www.bls.gov/oes/current/oes339031.htm | Gambling Surveillance Officers and Gambling Investigators | oes339031.htm
+https://www.bls.gov/oes/current/oes339032.htm | Security Guards | oes339032.htm
+https://www.bls.gov/oes/current/oes339091.htm | Crossing Guards and Flaggers | oes339091.htm
+https://www.bls.gov/oes/current/oes339092.htm | Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers | oes339092.htm
+https://www.bls.gov/oes/current/oes339093.htm | Transportation Security Screeners | oes339093.htm
+https://www.bls.gov/oes/current/oes339094.htm | School Bus Monitors | oes339094.htm
+https://www.bls.gov/oes/current/oes339099.htm | Protective Service Workers, All Other  | oes339099.htm
+https://www.bls.gov/oes/current/oes350000.htm | Food Preparation and Serving Related Occupations | oes350000.htm
+https://www.bls.gov/oes/current/oes351011.htm | Chefs and Head Cooks | oes351011.htm
+https://www.bls.gov/oes/current/oes351012.htm | First-Line Supervisors of Food Preparation and Serving Workers | oes351012.htm
+https://www.bls.gov/oes/current/oes352011.htm | Cooks, Fast Food | oes352011.htm
+https://www.bls.gov/oes/current/oes352012.htm | Cooks, Institution and Cafeteria | oes352012.htm
+https://www.bls.gov/oes/current/oes352013.htm | Cooks, Private Household | oes352013.htm
+https://www.bls.gov/oes/current/oes352014.htm | Cooks, Restaurant | oes352014.htm
+https://www.bls.gov/oes/current/oes352015.htm | Cooks, Short Order | oes352015.htm
+https://www.bls.gov/oes/current/oes352019.htm | Cooks, All Other | oes352019.htm
+https://www.bls.gov/oes/current/oes352021.htm | Food Preparation Workers | oes352021.htm
+https://www.bls.gov/oes/current/oes353011.htm | Bartenders | oes353011.htm
+https://www.bls.gov/oes/current/oes353023.htm | Fast Food and Counter Workers  | oes353023.htm
+https://www.bls.gov/oes/current/oes353031.htm | Waiters and Waitresses | oes353031.htm
+https://www.bls.gov/oes/current/oes353041.htm | Food Servers, Nonrestaurant | oes353041.htm
+https://www.bls.gov/oes/current/oes359011.htm | Dining Room and Cafeteria Attendants and Bartender Helpers | oes359011.htm
+https://www.bls.gov/oes/current/oes359021.htm | Dishwashers | oes359021.htm
+https://www.bls.gov/oes/current/oes359031.htm | Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop | oes359031.htm
+https://www.bls.gov/oes/current/oes359099.htm | Food Preparation and Serving Related Workers, All Other | oes359099.htm
+https://www.bls.gov/oes/current/oes370000.htm | Building and Grounds Cleaning and Maintenance Occupations | oes370000.htm
+https://www.bls.gov/oes/current/oes371011.htm | First-Line Supervisors of Housekeeping and Janitorial Workers | oes371011.htm
+https://www.bls.gov/oes/current/oes371012.htm | First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers | oes371012.htm
+https://www.bls.gov/oes/current/oes372011.htm | Janitors and Cleaners, Except Maids and Housekeeping Cleaners | oes372011.htm
+https://www.bls.gov/oes/current/oes372012.htm | Maids and Housekeeping Cleaners | oes372012.htm
+https://www.bls.gov/oes/current/oes372019.htm | Building Cleaning Workers, All Other | oes372019.htm
+https://www.bls.gov/oes/current/oes372021.htm | Pest Control Workers | oes372021.htm
+https://www.bls.gov/oes/current/oes373011.htm | Landscaping and Groundskeeping Workers | oes373011.htm
+https://www.bls.gov/oes/current/oes373012.htm | Pesticide Handlers, Sprayers, and Applicators, Vegetation | oes373012.htm
+https://www.bls.gov/oes/current/oes373013.htm | Tree Trimmers and Pruners | oes373013.htm
+https://www.bls.gov/oes/current/oes373019.htm | Grounds Maintenance Workers, All Other | oes373019.htm
+https://www.bls.gov/oes/current/oes390000.htm | Personal Care and Service Occupations | oes390000.htm
+https://www.bls.gov/oes/current/oes391013.htm | First-Line Supervisors of Gambling Services Workers | oes391013.htm
+https://www.bls.gov/oes/current/oes391014.htm | First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services | oes391014.htm
+https://www.bls.gov/oes/current/oes391022.htm | First-Line Supervisors of Personal Service Workers | oes391022.htm
+https://www.bls.gov/oes/current/oes392011.htm | Animal Trainers | oes392011.htm
+https://www.bls.gov/oes/current/oes392021.htm | Animal Caretakers | oes392021.htm
+https://www.bls.gov/oes/current/oes393011.htm | Gambling Dealers | oes393011.htm
+https://www.bls.gov/oes/current/oes393012.htm | Gambling and Sports Book Writers and Runners | oes393012.htm
+https://www.bls.gov/oes/current/oes393019.htm | Gambling Service Workers, All Other | oes393019.htm
+https://www.bls.gov/oes/current/oes393021.htm | Motion Picture Projectionists | oes393021.htm
+https://www.bls.gov/oes/current/oes393031.htm | Ushers, Lobby Attendants, and Ticket Takers | oes393031.htm
+https://www.bls.gov/oes/current/oes393091.htm | Amusement and Recreation Attendants | oes393091.htm
+https://www.bls.gov/oes/current/oes393092.htm | Costume Attendants | oes393092.htm
+https://www.bls.gov/oes/current/oes393093.htm | Locker Room, Coatroom, and Dressing Room Attendants | oes393093.htm
+https://www.bls.gov/oes/current/oes393099.htm | Entertainment Attendants and Related Workers, All Other | oes393099.htm
+https://www.bls.gov/oes/current/oes394011.htm | Embalmers | oes394011.htm
+https://www.bls.gov/oes/current/oes394012.htm | Crematory Operators | oes394012.htm
+https://www.bls.gov/oes/current/oes394021.htm | Funeral Attendants | oes394021.htm
+https://www.bls.gov/oes/current/oes394031.htm | Morticians, Undertakers, and Funeral Arrangers | oes394031.htm
+https://www.bls.gov/oes/current/oes395011.htm | Barbers | oes395011.htm
+https://www.bls.gov/oes/current/oes395012.htm | Hairdressers, Hairstylists, and Cosmetologists | oes395012.htm
+https://www.bls.gov/oes/current/oes395091.htm | Makeup Artists, Theatrical and Performance | oes395091.htm
+https://www.bls.gov/oes/current/oes395092.htm | Manicurists and Pedicurists | oes395092.htm
+https://www.bls.gov/oes/current/oes395093.htm | Shampooers | oes395093.htm
+https://www.bls.gov/oes/current/oes395094.htm | Skincare Specialists | oes395094.htm
+https://www.bls.gov/oes/current/oes396011.htm | Baggage Porters and Bellhops | oes396011.htm
+https://www.bls.gov/oes/current/oes396012.htm | Concierges | oes396012.htm
+https://www.bls.gov/oes/current/oes397010.htm | Tour and Travel Guides | oes397010.htm
+https://www.bls.gov/oes/current/oes399011.htm | Childcare Workers | oes399011.htm
+https://www.bls.gov/oes/current/oes399031.htm | Exercise Trainers and Group Fitness Instructors  | oes399031.htm
+https://www.bls.gov/oes/current/oes399032.htm | Recreation Workers | oes399032.htm
+https://www.bls.gov/oes/current/oes399041.htm | Residential Advisors | oes399041.htm
+https://www.bls.gov/oes/current/oes399099.htm | Personal Care and Service Workers, All Other  | oes399099.htm
+https://www.bls.gov/oes/current/oes410000.htm | Sales and Related Occupations | oes410000.htm
+https://www.bls.gov/oes/current/oes411011.htm | First-Line Supervisors of Retail Sales Workers | oes411011.htm
+https://www.bls.gov/oes/current/oes411012.htm | First-Line Supervisors of Non-Retail Sales Workers | oes411012.htm
+https://www.bls.gov/oes/current/oes412011.htm | Cashiers | oes412011.htm
+https://www.bls.gov/oes/current/oes412012.htm | Gambling Change Persons and Booth Cashiers | oes412012.htm
+https://www.bls.gov/oes/current/oes412021.htm | Counter and Rental Clerks | oes412021.htm
+https://www.bls.gov/oes/current/oes412022.htm | Parts Salespersons | oes412022.htm
+https://www.bls.gov/oes/current/oes412031.htm | Retail Salespersons | oes412031.htm
+https://www.bls.gov/oes/current/oes413011.htm | Advertising Sales Agents | oes413011.htm
+https://www.bls.gov/oes/current/oes413021.htm | Insurance Sales Agents | oes413021.htm
+https://www.bls.gov/oes/current/oes413031.htm | Securities, Commodities, and Financial Services Sales Agents | oes413031.htm
+https://www.bls.gov/oes/current/oes413041.htm | Travel Agents | oes413041.htm
+https://www.bls.gov/oes/current/oes413091.htm | Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel  | oes413091.htm
+https://www.bls.gov/oes/current/oes414011.htm | Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products | oes414011.htm
+https://www.bls.gov/oes/current/oes414012.htm | Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products | oes414012.htm
+https://www.bls.gov/oes/current/oes419011.htm | Demonstrators and Product Promoters | oes419011.htm
+https://www.bls.gov/oes/current/oes419012.htm | Models | oes419012.htm
+https://www.bls.gov/oes/current/oes419021.htm | Real Estate Brokers | oes419021.htm
+https://www.bls.gov/oes/current/oes419022.htm | Real Estate Sales Agents | oes419022.htm
+https://www.bls.gov/oes/current/oes419031.htm | Sales Engineers | oes419031.htm
+https://www.bls.gov/oes/current/oes419041.htm | Telemarketers | oes419041.htm
+https://www.bls.gov/oes/current/oes419091.htm | Door-to-Door Sales Workers, News and Street Vendors, and Related Workers | oes419091.htm
+https://www.bls.gov/oes/current/oes419099.htm | Sales and Related Workers, All Other | oes419099.htm
+https://www.bls.gov/oes/current/oes430000.htm | Office and Administrative Support Occupations | oes430000.htm
+https://www.bls.gov/oes/current/oes431011.htm | First-Line Supervisors of Office and Administrative Support Workers | oes431011.htm
+https://www.bls.gov/oes/current/oes432011.htm | Switchboard Operators, Including Answering Service | oes432011.htm
+https://www.bls.gov/oes/current/oes432021.htm | Telephone Operators | oes432021.htm
+https://www.bls.gov/oes/current/oes432099.htm | Communications Equipment Operators, All Other | oes432099.htm
+https://www.bls.gov/oes/current/oes433011.htm | Bill and Account Collectors | oes433011.htm
+https://www.bls.gov/oes/current/oes433021.htm | Billing and Posting Clerks | oes433021.htm
+https://www.bls.gov/oes/current/oes433031.htm | Bookkeeping, Accounting, and Auditing Clerks | oes433031.htm
+https://www.bls.gov/oes/current/oes433041.htm | Gambling Cage Workers | oes433041.htm
+https://www.bls.gov/oes/current/oes433051.htm | Payroll and Timekeeping Clerks | oes433051.htm
+https://www.bls.gov/oes/current/oes433061.htm | Procurement Clerks | oes433061.htm
+https://www.bls.gov/oes/current/oes433071.htm | Tellers | oes433071.htm
+https://www.bls.gov/oes/current/oes433099.htm | Financial Clerks, All Other | oes433099.htm
+https://www.bls.gov/oes/current/oes434011.htm | Brokerage Clerks | oes434011.htm
+https://www.bls.gov/oes/current/oes434021.htm | Correspondence Clerks | oes434021.htm
+https://www.bls.gov/oes/current/oes434031.htm | Court, Municipal, and License Clerks | oes434031.htm
+https://www.bls.gov/oes/current/oes434041.htm | Credit Authorizers, Checkers, and Clerks | oes434041.htm
+https://www.bls.gov/oes/current/oes434051.htm | Customer Service Representatives | oes434051.htm
+https://www.bls.gov/oes/current/oes434061.htm | Eligibility Interviewers, Government Programs | oes434061.htm
+https://www.bls.gov/oes/current/oes434071.htm | File Clerks | oes434071.htm
+https://www.bls.gov/oes/current/oes434081.htm | Hotel, Motel, and Resort Desk Clerks | oes434081.htm
+https://www.bls.gov/oes/current/oes434111.htm | Interviewers, Except Eligibility and Loan | oes434111.htm
+https://www.bls.gov/oes/current/oes434121.htm | Library Assistants, Clerical | oes434121.htm
+https://www.bls.gov/oes/current/oes434131.htm | Loan Interviewers and Clerks | oes434131.htm
+https://www.bls.gov/oes/current/oes434141.htm | New Accounts Clerks | oes434141.htm
+https://www.bls.gov/oes/current/oes434151.htm | Order Clerks | oes434151.htm
+https://www.bls.gov/oes/current/oes434161.htm | Human Resources Assistants, Except Payroll and Timekeeping | oes434161.htm
+https://www.bls.gov/oes/current/oes434171.htm | Receptionists and Information Clerks | oes434171.htm
+https://www.bls.gov/oes/current/oes434181.htm | Reservation and Transportation Ticket Agents and Travel Clerks | oes434181.htm
+https://www.bls.gov/oes/current/oes434199.htm | Information and Record Clerks, All Other | oes434199.htm
+https://www.bls.gov/oes/current/oes435011.htm | Cargo and Freight Agents | oes435011.htm
+https://www.bls.gov/oes/current/oes435021.htm | Couriers and Messengers | oes435021.htm
+https://www.bls.gov/oes/current/oes435031.htm | Public Safety Telecommunicators  | oes435031.htm
+https://www.bls.gov/oes/current/oes435032.htm | Dispatchers, Except Police, Fire, and Ambulance | oes435032.htm
+https://www.bls.gov/oes/current/oes435041.htm | Meter Readers, Utilities | oes435041.htm
+https://www.bls.gov/oes/current/oes435051.htm | Postal Service Clerks | oes435051.htm
+https://www.bls.gov/oes/current/oes435052.htm | Postal Service Mail Carriers | oes435052.htm
+https://www.bls.gov/oes/current/oes435053.htm | Postal Service Mail Sorters, Processors, and Processing Machine Operators | oes435053.htm
+https://www.bls.gov/oes/current/oes435061.htm | Production, Planning, and Expediting Clerks | oes435061.htm
+https://www.bls.gov/oes/current/oes435071.htm | Shipping, Receiving, and Inventory Clerks | oes435071.htm
+https://www.bls.gov/oes/current/oes435111.htm | Weighers, Measurers, Checkers, and Samplers, Recordkeeping | oes435111.htm
+https://www.bls.gov/oes/current/oes436011.htm | Executive Secretaries and Executive Administrative Assistants | oes436011.htm
+https://www.bls.gov/oes/current/oes436012.htm | Legal Secretaries and Administrative Assistants | oes436012.htm
+https://www.bls.gov/oes/current/oes436013.htm | Medical Secretaries and Administrative Assistants | oes436013.htm
+https://www.bls.gov/oes/current/oes436014.htm | Secretaries and Administrative Assistants, Except Legal, Medical, and Executive | oes436014.htm
+https://www.bls.gov/oes/current/oes439021.htm | Data Entry Keyers | oes439021.htm
+https://www.bls.gov/oes/current/oes439022.htm | Word Processors and Typists | oes439022.htm
+https://www.bls.gov/oes/current/oes439031.htm | Desktop Publishers | oes439031.htm
+https://www.bls.gov/oes/current/oes439041.htm | Insurance Claims and Policy Processing Clerks | oes439041.htm
+https://www.bls.gov/oes/current/oes439051.htm | Mail Clerks and Mail Machine Operators, Except Postal Service | oes439051.htm
+https://www.bls.gov/oes/current/oes439061.htm | Office Clerks, General | oes439061.htm
+https://www.bls.gov/oes/current/oes439071.htm | Office Machine Operators, Except Computer | oes439071.htm
+https://www.bls.gov/oes/current/oes439081.htm | Proofreaders and Copy Markers | oes439081.htm
+https://www.bls.gov/oes/current/oes439111.htm | Statistical Assistants | oes439111.htm
+https://www.bls.gov/oes/current/oes439199.htm | Office and Administrative Support Workers, All Other | oes439199.htm
+https://www.bls.gov/oes/current/oes450000.htm | Farming, Fishing, and Forestry Occupations | oes450000.htm
+https://www.bls.gov/oes/current/oes451011.htm | First-Line Supervisors of Farming, Fishing, and Forestry Workers | oes451011.htm
+https://www.bls.gov/oes/current/oes452011.htm | Agricultural Inspectors | oes452011.htm
+https://www.bls.gov/oes/current/oes452021.htm | Animal Breeders | oes452021.htm
+https://www.bls.gov/oes/current/oes452041.htm | Graders and Sorters, Agricultural Products | oes452041.htm
+https://www.bls.gov/oes/current/oes452091.htm | Agricultural Equipment Operators | oes452091.htm
+https://www.bls.gov/oes/current/oes452092.htm | Farmworkers and Laborers, Crop, Nursery, and Greenhouse | oes452092.htm
+https://www.bls.gov/oes/current/oes452093.htm | Farmworkers, Farm, Ranch, and Aquacultural Animals | oes452093.htm
+https://www.bls.gov/oes/current/oes452099.htm | Agricultural Workers, All Other | oes452099.htm
+https://www.bls.gov/oes/current/oes454011.htm | Forest and Conservation Workers | oes454011.htm
+https://www.bls.gov/oes/current/oes454021.htm | Fallers | oes454021.htm
+https://www.bls.gov/oes/current/oes454022.htm | Logging Equipment Operators | oes454022.htm
+https://www.bls.gov/oes/current/oes454023.htm | Log Graders and Scalers | oes454023.htm
+https://www.bls.gov/oes/current/oes454029.htm | Logging Workers, All Other | oes454029.htm
+https://www.bls.gov/oes/current/oes470000.htm | Construction and Extraction Occupations | oes470000.htm
+https://www.bls.gov/oes/current/oes471011.htm | First-Line Supervisors of Construction Trades and Extraction Workers | oes471011.htm
+https://www.bls.gov/oes/current/oes472011.htm | Boilermakers | oes472011.htm
+https://www.bls.gov/oes/current/oes472021.htm | Brickmasons and Blockmasons | oes472021.htm
+https://www.bls.gov/oes/current/oes472022.htm | Stonemasons | oes472022.htm
+https://www.bls.gov/oes/current/oes472031.htm | Carpenters | oes472031.htm
+https://www.bls.gov/oes/current/oes472041.htm | Carpet Installers | oes472041.htm
+https://www.bls.gov/oes/current/oes472042.htm | Floor Layers, Except Carpet, Wood, and Hard Tiles | oes472042.htm
+https://www.bls.gov/oes/current/oes472043.htm | Floor Sanders and Finishers | oes472043.htm
+https://www.bls.gov/oes/current/oes472044.htm | Tile and Stone Setters | oes472044.htm
+https://www.bls.gov/oes/current/oes472051.htm | Cement Masons and Concrete Finishers | oes472051.htm
+https://www.bls.gov/oes/current/oes472053.htm | Terrazzo Workers and Finishers | oes472053.htm
+https://www.bls.gov/oes/current/oes472061.htm | Construction Laborers | oes472061.htm
+https://www.bls.gov/oes/current/oes472071.htm | Paving, Surfacing, and Tamping Equipment Operators | oes472071.htm
+https://www.bls.gov/oes/current/oes472072.htm | Pile Driver Operators | oes472072.htm
+https://www.bls.gov/oes/current/oes472073.htm | Operating Engineers and Other Construction Equipment Operators | oes472073.htm
+https://www.bls.gov/oes/current/oes472081.htm | Drywall and Ceiling Tile Installers | oes472081.htm
+https://www.bls.gov/oes/current/oes472082.htm | Tapers | oes472082.htm
+https://www.bls.gov/oes/current/oes472111.htm | Electricians | oes472111.htm
+https://www.bls.gov/oes/current/oes472121.htm | Glaziers | oes472121.htm
+https://www.bls.gov/oes/current/oes472131.htm | Insulation Workers, Floor, Ceiling, and Wall | oes472131.htm
+https://www.bls.gov/oes/current/oes472132.htm | Insulation Workers, Mechanical | oes472132.htm
+https://www.bls.gov/oes/current/oes472141.htm | Painters, Construction and Maintenance | oes472141.htm
+https://www.bls.gov/oes/current/oes472142.htm | Paperhangers | oes472142.htm
+https://www.bls.gov/oes/current/oes472151.htm | Pipelayers | oes472151.htm
+https://www.bls.gov/oes/current/oes472152.htm | Plumbers, Pipefitters, and Steamfitters | oes472152.htm
+https://www.bls.gov/oes/current/oes472161.htm | Plasterers and Stucco Masons | oes472161.htm
+https://www.bls.gov/oes/current/oes472171.htm | Reinforcing Iron and Rebar Workers | oes472171.htm
+https://www.bls.gov/oes/current/oes472181.htm | Roofers | oes472181.htm
+https://www.bls.gov/oes/current/oes472211.htm | Sheet Metal Workers | oes472211.htm
+https://www.bls.gov/oes/current/oes472221.htm | Structural Iron and Steel Workers | oes472221.htm
+https://www.bls.gov/oes/current/oes472231.htm | Solar Photovoltaic Installers | oes472231.htm
+https://www.bls.gov/oes/current/oes473011.htm | Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters | oes473011.htm
+https://www.bls.gov/oes/current/oes473012.htm | Helpers--Carpenters | oes473012.htm
+https://www.bls.gov/oes/current/oes473013.htm | Helpers--Electricians | oes473013.htm
+https://www.bls.gov/oes/current/oes473014.htm | Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons | oes473014.htm
+https://www.bls.gov/oes/current/oes473015.htm | Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters | oes473015.htm
+https://www.bls.gov/oes/current/oes473016.htm | Helpers--Roofers | oes473016.htm
+https://www.bls.gov/oes/current/oes473019.htm | Helpers, Construction Trades, All Other | oes473019.htm
+https://www.bls.gov/oes/current/oes474011.htm | Construction and Building Inspectors | oes474011.htm
+https://www.bls.gov/oes/current/oes474021.htm | Elevator and Escalator Installers and Repairers | oes474021.htm
+https://www.bls.gov/oes/current/oes474031.htm | Fence Erectors | oes474031.htm
+https://www.bls.gov/oes/current/oes474041.htm | Hazardous Materials Removal Workers | oes474041.htm
+https://www.bls.gov/oes/current/oes474051.htm | Highway Maintenance Workers | oes474051.htm
+https://www.bls.gov/oes/current/oes474061.htm | Rail-Track Laying and Maintenance Equipment Operators | oes474061.htm
+https://www.bls.gov/oes/current/oes474071.htm | Septic Tank Servicers and Sewer Pipe Cleaners | oes474071.htm
+https://www.bls.gov/oes/current/oes474090.htm | Miscellaneous Construction and Related Workers  | oes474090.htm
+https://www.bls.gov/oes/current/oes475011.htm | Derrick Operators, Oil and Gas | oes475011.htm
+https://www.bls.gov/oes/current/oes475012.htm | Rotary Drill Operators, Oil and Gas | oes475012.htm
+https://www.bls.gov/oes/current/oes475013.htm | Service Unit Operators, Oil and Gas | oes475013.htm
+https://www.bls.gov/oes/current/oes475022.htm | Excavating and Loading Machine and Dragline Operators, Surface Mining | oes475022.htm
+https://www.bls.gov/oes/current/oes475023.htm | Earth Drillers, Except Oil and Gas  | oes475023.htm
+https://www.bls.gov/oes/current/oes475032.htm | Explosives Workers, Ordnance Handling Experts, and Blasters | oes475032.htm
+https://www.bls.gov/oes/current/oes475041.htm | Continuous Mining Machine Operators | oes475041.htm
+https://www.bls.gov/oes/current/oes475043.htm | Roof Bolters, Mining  | oes475043.htm
+https://www.bls.gov/oes/current/oes475044.htm | Loading and Moving Machine Operators, Underground Mining | oes475044.htm
+https://www.bls.gov/oes/current/oes475049.htm | Underground Mining Machine Operators, All Other  | oes475049.htm
+https://www.bls.gov/oes/current/oes475051.htm | Rock Splitters, Quarry | oes475051.htm
+https://www.bls.gov/oes/current/oes475071.htm | Roustabouts, Oil and Gas | oes475071.htm
+https://www.bls.gov/oes/current/oes475081.htm | Helpers--Extraction Workers | oes475081.htm
+https://www.bls.gov/oes/current/oes475099.htm | Extraction Workers, All Other  | oes475099.htm
+https://www.bls.gov/oes/current/oes490000.htm | Installation, Maintenance, and Repair Occupations | oes490000.htm
+https://www.bls.gov/oes/current/oes491011.htm | First-Line Supervisors of Mechanics, Installers, and Repairers | oes491011.htm
+https://www.bls.gov/oes/current/oes492011.htm | Computer, Automated Teller, and Office Machine Repairers | oes492011.htm
+https://www.bls.gov/oes/current/oes492021.htm | Radio, Cellular, and Tower Equipment Installers and Repairers | oes492021.htm
+https://www.bls.gov/oes/current/oes492022.htm | Telecommunications Equipment Installers and Repairers, Except Line Installers | oes492022.htm
+https://www.bls.gov/oes/current/oes492091.htm | Avionics Technicians | oes492091.htm
+https://www.bls.gov/oes/current/oes492092.htm | Electric Motor, Power Tool, and Related Repairers | oes492092.htm
+https://www.bls.gov/oes/current/oes492093.htm | Electrical and Electronics Installers and Repairers, Transportation Equipment | oes492093.htm
+https://www.bls.gov/oes/current/oes492094.htm | Electrical and Electronics Repairers, Commercial and Industrial Equipment | oes492094.htm
+https://www.bls.gov/oes/current/oes492095.htm | Electrical and Electronics Repairers, Powerhouse, Substation, and Relay | oes492095.htm
+https://www.bls.gov/oes/current/oes492096.htm | Electronic Equipment Installers and Repairers, Motor Vehicles | oes492096.htm
+https://www.bls.gov/oes/current/oes492097.htm | Audiovisual Equipment Installers and Repairers  | oes492097.htm
+https://www.bls.gov/oes/current/oes492098.htm | Security and Fire Alarm Systems Installers | oes492098.htm
+https://www.bls.gov/oes/current/oes493011.htm | Aircraft Mechanics and Service Technicians | oes493011.htm
+https://www.bls.gov/oes/current/oes493021.htm | Automotive Body and Related Repairers | oes493021.htm
+https://www.bls.gov/oes/current/oes493022.htm | Automotive Glass Installers and Repairers | oes493022.htm
+https://www.bls.gov/oes/current/oes493023.htm | Automotive Service Technicians and Mechanics | oes493023.htm
+https://www.bls.gov/oes/current/oes493031.htm | Bus and Truck Mechanics and Diesel Engine Specialists | oes493031.htm
+https://www.bls.gov/oes/current/oes493041.htm | Farm Equipment Mechanics and Service Technicians | oes493041.htm
+https://www.bls.gov/oes/current/oes493042.htm | Mobile Heavy Equipment Mechanics, Except Engines | oes493042.htm
+https://www.bls.gov/oes/current/oes493043.htm | Rail Car Repairers | oes493043.htm
+https://www.bls.gov/oes/current/oes493051.htm | Motorboat Mechanics and Service Technicians | oes493051.htm
+https://www.bls.gov/oes/current/oes493052.htm | Motorcycle Mechanics | oes493052.htm
+https://www.bls.gov/oes/current/oes493053.htm | Outdoor Power Equipment and Other Small Engine Mechanics | oes493053.htm
+https://www.bls.gov/oes/current/oes493091.htm | Bicycle Repairers | oes493091.htm
+https://www.bls.gov/oes/current/oes493092.htm | Recreational Vehicle Service Technicians | oes493092.htm
+https://www.bls.gov/oes/current/oes493093.htm | Tire Repairers and Changers | oes493093.htm
+https://www.bls.gov/oes/current/oes499011.htm | Mechanical Door Repairers | oes499011.htm
+https://www.bls.gov/oes/current/oes499012.htm | Control and Valve Installers and Repairers, Except Mechanical Door | oes499012.htm
+https://www.bls.gov/oes/current/oes499021.htm | Heating, Air Conditioning, and Refrigeration Mechanics and Installers | oes499021.htm
+https://www.bls.gov/oes/current/oes499031.htm | Home Appliance Repairers | oes499031.htm
+https://www.bls.gov/oes/current/oes499041.htm | Industrial Machinery Mechanics | oes499041.htm
+https://www.bls.gov/oes/current/oes499043.htm | Maintenance Workers, Machinery | oes499043.htm
+https://www.bls.gov/oes/current/oes499044.htm | Millwrights | oes499044.htm
+https://www.bls.gov/oes/current/oes499045.htm | Refractory Materials Repairers, Except Brickmasons | oes499045.htm
+https://www.bls.gov/oes/current/oes499051.htm | Electrical Power-Line Installers and Repairers | oes499051.htm
+https://www.bls.gov/oes/current/oes499052.htm | Telecommunications Line Installers and Repairers | oes499052.htm
+https://www.bls.gov/oes/current/oes499061.htm | Camera and Photographic Equipment Repairers | oes499061.htm
+https://www.bls.gov/oes/current/oes499062.htm | Medical Equipment Repairers | oes499062.htm
+https://www.bls.gov/oes/current/oes499063.htm | Musical Instrument Repairers and Tuners | oes499063.htm
+https://www.bls.gov/oes/current/oes499064.htm | Watch and Clock Repairers | oes499064.htm
+https://www.bls.gov/oes/current/oes499069.htm | Precision Instrument and Equipment Repairers, All Other | oes499069.htm
+https://www.bls.gov/oes/current/oes499071.htm | Maintenance and Repair Workers, General | oes499071.htm
+https://www.bls.gov/oes/current/oes499081.htm | Wind Turbine Service Technicians | oes499081.htm
+https://www.bls.gov/oes/current/oes499091.htm | Coin, Vending, and Amusement Machine Servicers and Repairers | oes499091.htm
+https://www.bls.gov/oes/current/oes499092.htm | Commercial Divers | oes499092.htm
+https://www.bls.gov/oes/current/oes499094.htm | Locksmiths and Safe Repairers | oes499094.htm
+https://www.bls.gov/oes/current/oes499095.htm | Manufactured Building and Mobile Home Installers | oes499095.htm
+https://www.bls.gov/oes/current/oes499096.htm | Riggers | oes499096.htm
+https://www.bls.gov/oes/current/oes499097.htm | Signal and Track Switch Repairers | oes499097.htm
+https://www.bls.gov/oes/current/oes499098.htm | Helpers--Installation, Maintenance, and Repair Workers | oes499098.htm
+https://www.bls.gov/oes/current/oes499099.htm | Installation, Maintenance, and Repair Workers, All Other | oes499099.htm
+https://www.bls.gov/oes/current/oes510000.htm | Production Occupations | oes510000.htm
+https://www.bls.gov/oes/current/oes511011.htm | First-Line Supervisors of Production and Operating Workers | oes511011.htm
+https://www.bls.gov/oes/current/oes512011.htm | Aircraft Structure, Surfaces, Rigging, and Systems Assemblers | oes512011.htm
+https://www.bls.gov/oes/current/oes512021.htm | Coil Winders, Tapers, and Finishers | oes512021.htm
+https://www.bls.gov/oes/current/oes512028.htm | Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers | oes512028.htm
+https://www.bls.gov/oes/current/oes512031.htm | Engine and Other Machine Assemblers | oes512031.htm
+https://www.bls.gov/oes/current/oes512041.htm | Structural Metal Fabricators and Fitters | oes512041.htm
+https://www.bls.gov/oes/current/oes512051.htm | Fiberglass Laminators and Fabricators  | oes512051.htm
+https://www.bls.gov/oes/current/oes512061.htm | Timing Device Assemblers and Adjusters  | oes512061.htm
+https://www.bls.gov/oes/current/oes512090.htm | Miscellaneous Assemblers and Fabricators  | oes512090.htm
+https://www.bls.gov/oes/current/oes513011.htm | Bakers | oes513011.htm
+https://www.bls.gov/oes/current/oes513021.htm | Butchers and Meat Cutters | oes513021.htm
+https://www.bls.gov/oes/current/oes513022.htm | Meat, Poultry, and Fish Cutters and Trimmers | oes513022.htm
+https://www.bls.gov/oes/current/oes513023.htm | Slaughterers and Meat Packers | oes513023.htm
+https://www.bls.gov/oes/current/oes513091.htm | Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders | oes513091.htm
+https://www.bls.gov/oes/current/oes513092.htm | Food Batchmakers | oes513092.htm
+https://www.bls.gov/oes/current/oes513093.htm | Food Cooking Machine Operators and Tenders | oes513093.htm
+https://www.bls.gov/oes/current/oes513099.htm | Food Processing Workers, All Other | oes513099.htm
+https://www.bls.gov/oes/current/oes514021.htm | Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic | oes514021.htm
+https://www.bls.gov/oes/current/oes514022.htm | Forging Machine Setters, Operators, and Tenders, Metal and Plastic | oes514022.htm
+https://www.bls.gov/oes/current/oes514023.htm | Rolling Machine Setters, Operators, and Tenders, Metal and Plastic | oes514023.htm
+https://www.bls.gov/oes/current/oes514031.htm | Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic | oes514031.htm
+https://www.bls.gov/oes/current/oes514032.htm | Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic | oes514032.htm
+https://www.bls.gov/oes/current/oes514033.htm | Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic | oes514033.htm
+https://www.bls.gov/oes/current/oes514034.htm | Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic | oes514034.htm
+https://www.bls.gov/oes/current/oes514035.htm | Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic | oes514035.htm
+https://www.bls.gov/oes/current/oes514041.htm | Machinists | oes514041.htm
+https://www.bls.gov/oes/current/oes514051.htm | Metal-Refining Furnace Operators and Tenders | oes514051.htm
+https://www.bls.gov/oes/current/oes514052.htm | Pourers and Casters, Metal | oes514052.htm
+https://www.bls.gov/oes/current/oes514061.htm | Model Makers, Metal and Plastic | oes514061.htm
+https://www.bls.gov/oes/current/oes514062.htm | Patternmakers, Metal and Plastic | oes514062.htm
+https://www.bls.gov/oes/current/oes514071.htm | Foundry Mold and Coremakers | oes514071.htm
+https://www.bls.gov/oes/current/oes514072.htm | Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic | oes514072.htm
+https://www.bls.gov/oes/current/oes514081.htm | Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic | oes514081.htm
+https://www.bls.gov/oes/current/oes514111.htm | Tool and Die Makers | oes514111.htm
+https://www.bls.gov/oes/current/oes514121.htm | Welders, Cutters, Solderers, and Brazers | oes514121.htm
+https://www.bls.gov/oes/current/oes514122.htm | Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders | oes514122.htm
+https://www.bls.gov/oes/current/oes514191.htm | Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic | oes514191.htm
+https://www.bls.gov/oes/current/oes514192.htm | Layout Workers, Metal and Plastic | oes514192.htm
+https://www.bls.gov/oes/current/oes514193.htm | Plating Machine Setters, Operators, and Tenders, Metal and Plastic | oes514193.htm
+https://www.bls.gov/oes/current/oes514194.htm | Tool Grinders, Filers, and Sharpeners | oes514194.htm
+https://www.bls.gov/oes/current/oes514199.htm | Metal Workers and Plastic Workers, All Other | oes514199.htm
+https://www.bls.gov/oes/current/oes515111.htm | Prepress Technicians and Workers | oes515111.htm
+https://www.bls.gov/oes/current/oes515112.htm | Printing Press Operators | oes515112.htm
+https://www.bls.gov/oes/current/oes515113.htm | Print Binding and Finishing Workers | oes515113.htm
+https://www.bls.gov/oes/current/oes516011.htm | Laundry and Dry-Cleaning Workers | oes516011.htm
+https://www.bls.gov/oes/current/oes516021.htm | Pressers, Textile, Garment, and Related Materials | oes516021.htm
+https://www.bls.gov/oes/current/oes516031.htm | Sewing Machine Operators | oes516031.htm
+https://www.bls.gov/oes/current/oes516041.htm | Shoe and Leather Workers and Repairers | oes516041.htm
+https://www.bls.gov/oes/current/oes516042.htm | Shoe Machine Operators and Tenders | oes516042.htm
+https://www.bls.gov/oes/current/oes516051.htm | Sewers, Hand | oes516051.htm
+https://www.bls.gov/oes/current/oes516052.htm | Tailors, Dressmakers, and Custom Sewers | oes516052.htm
+https://www.bls.gov/oes/current/oes516061.htm | Textile Bleaching and Dyeing Machine Operators and Tenders | oes516061.htm
+https://www.bls.gov/oes/current/oes516062.htm | Textile Cutting Machine Setters, Operators, and Tenders | oes516062.htm
+https://www.bls.gov/oes/current/oes516063.htm | Textile Knitting and Weaving Machine Setters, Operators, and Tenders | oes516063.htm
+https://www.bls.gov/oes/current/oes516064.htm | Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders | oes516064.htm
+https://www.bls.gov/oes/current/oes516091.htm | Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers | oes516091.htm
+https://www.bls.gov/oes/current/oes516092.htm | Fabric and Apparel Patternmakers | oes516092.htm
+https://www.bls.gov/oes/current/oes516093.htm | Upholsterers | oes516093.htm
+https://www.bls.gov/oes/current/oes516099.htm | Textile, Apparel, and Furnishings Workers, All Other | oes516099.htm
+https://www.bls.gov/oes/current/oes517011.htm | Cabinetmakers and Bench Carpenters | oes517011.htm
+https://www.bls.gov/oes/current/oes517021.htm | Furniture Finishers | oes517021.htm
+https://www.bls.gov/oes/current/oes517031.htm | Model Makers, Wood | oes517031.htm
+https://www.bls.gov/oes/current/oes517032.htm | Patternmakers, Wood | oes517032.htm
+https://www.bls.gov/oes/current/oes517041.htm | Sawing Machine Setters, Operators, and Tenders, Wood | oes517041.htm
+https://www.bls.gov/oes/current/oes517042.htm | Woodworking Machine Setters, Operators, and Tenders, Except Sawing | oes517042.htm
+https://www.bls.gov/oes/current/oes517099.htm | Woodworkers, All Other | oes517099.htm
+https://www.bls.gov/oes/current/oes518011.htm | Nuclear Power Reactor Operators | oes518011.htm
+https://www.bls.gov/oes/current/oes518012.htm | Power Distributors and Dispatchers | oes518012.htm
+https://www.bls.gov/oes/current/oes518013.htm | Power Plant Operators | oes518013.htm
+https://www.bls.gov/oes/current/oes518021.htm | Stationary Engineers and Boiler Operators | oes518021.htm
+https://www.bls.gov/oes/current/oes518031.htm | Water and Wastewater Treatment Plant and System Operators | oes518031.htm
+https://www.bls.gov/oes/current/oes518091.htm | Chemical Plant and System Operators | oes518091.htm
+https://www.bls.gov/oes/current/oes518092.htm | Gas Plant Operators | oes518092.htm
+https://www.bls.gov/oes/current/oes518093.htm | Petroleum Pump System Operators, Refinery Operators, and Gaugers | oes518093.htm
+https://www.bls.gov/oes/current/oes518099.htm | Plant and System Operators, All Other | oes518099.htm
+https://www.bls.gov/oes/current/oes519011.htm | Chemical Equipment Operators and Tenders | oes519011.htm
+https://www.bls.gov/oes/current/oes519012.htm | Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders | oes519012.htm
+https://www.bls.gov/oes/current/oes519021.htm | Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders | oes519021.htm
+https://www.bls.gov/oes/current/oes519022.htm | Grinding and Polishing Workers, Hand | oes519022.htm
+https://www.bls.gov/oes/current/oes519023.htm | Mixing and Blending Machine Setters, Operators, and Tenders | oes519023.htm
+https://www.bls.gov/oes/current/oes519031.htm | Cutters and Trimmers, Hand | oes519031.htm
+https://www.bls.gov/oes/current/oes519032.htm | Cutting and Slicing Machine Setters, Operators, and Tenders | oes519032.htm
+https://www.bls.gov/oes/current/oes519041.htm | Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders | oes519041.htm
+https://www.bls.gov/oes/current/oes519051.htm | Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders | oes519051.htm
+https://www.bls.gov/oes/current/oes519061.htm | Inspectors, Testers, Sorters, Samplers, and Weighers | oes519061.htm
+https://www.bls.gov/oes/current/oes519071.htm | Jewelers and Precious Stone and Metal Workers | oes519071.htm
+https://www.bls.gov/oes/current/oes519081.htm | Dental Laboratory Technicians | oes519081.htm
+https://www.bls.gov/oes/current/oes519082.htm | Medical Appliance Technicians | oes519082.htm
+https://www.bls.gov/oes/current/oes519083.htm | Ophthalmic Laboratory Technicians | oes519083.htm
+https://www.bls.gov/oes/current/oes519111.htm | Packaging and Filling Machine Operators and Tenders | oes519111.htm
+https://www.bls.gov/oes/current/oes519123.htm | Painting, Coating, and Decorating Workers | oes519123.htm
+https://www.bls.gov/oes/current/oes519124.htm | Coating, Painting, and Spraying Machine Setters, Operators, and Tenders  | oes519124.htm
+https://www.bls.gov/oes/current/oes519141.htm | Semiconductor Processing Technicians | oes519141.htm
+https://www.bls.gov/oes/current/oes519151.htm | Photographic Process Workers and Processing Machine Operators | oes519151.htm
+https://www.bls.gov/oes/current/oes519161.htm | Computer Numerically Controlled Tool Operators  | oes519161.htm
+https://www.bls.gov/oes/current/oes519162.htm | Computer Numerically Controlled Tool Programmers  | oes519162.htm
+https://www.bls.gov/oes/current/oes519191.htm | Adhesive Bonding Machine Operators and Tenders | oes519191.htm
+https://www.bls.gov/oes/current/oes519192.htm | Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders | oes519192.htm
+https://www.bls.gov/oes/current/oes519193.htm | Cooling and Freezing Equipment Operators and Tenders | oes519193.htm
+https://www.bls.gov/oes/current/oes519194.htm | Etchers and Engravers | oes519194.htm
+https://www.bls.gov/oes/current/oes519195.htm | Molders, Shapers, and Casters, Except Metal and Plastic | oes519195.htm
+https://www.bls.gov/oes/current/oes519196.htm | Paper Goods Machine Setters, Operators, and Tenders | oes519196.htm
+https://www.bls.gov/oes/current/oes519197.htm | Tire Builders | oes519197.htm
+https://www.bls.gov/oes/current/oes519198.htm | Helpers--Production Workers | oes519198.htm
+https://www.bls.gov/oes/current/oes519199.htm | Production Workers, All Other | oes519199.htm
+https://www.bls.gov/oes/current/oes530000.htm | Transportation and Material Moving Occupations | oes530000.htm
+https://www.bls.gov/oes/current/oes531041.htm | Aircraft Cargo Handling Supervisors | oes531041.htm
+https://www.bls.gov/oes/current/oes531047.htm | First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors | oes531047.htm
+https://www.bls.gov/oes/current/oes532011.htm | Airline Pilots, Copilots, and Flight Engineers | oes532011.htm
+https://www.bls.gov/oes/current/oes532012.htm | Commercial Pilots | oes532012.htm
+https://www.bls.gov/oes/current/oes532021.htm | Air Traffic Controllers | oes532021.htm
+https://www.bls.gov/oes/current/oes532022.htm | Airfield Operations Specialists | oes532022.htm
+https://www.bls.gov/oes/current/oes532031.htm | Flight Attendants | oes532031.htm
+https://www.bls.gov/oes/current/oes533011.htm | Ambulance Drivers and Attendants, Except Emergency Medical Technicians | oes533011.htm
+https://www.bls.gov/oes/current/oes533031.htm | Driver/Sales Workers | oes533031.htm
+https://www.bls.gov/oes/current/oes533032.htm | Heavy and Tractor-Trailer Truck Drivers | oes533032.htm
+https://www.bls.gov/oes/current/oes533033.htm | Light Truck Drivers | oes533033.htm
+https://www.bls.gov/oes/current/oes533051.htm | Bus Drivers, School | oes533051.htm
+https://www.bls.gov/oes/current/oes533052.htm | Bus Drivers, Transit and Intercity | oes533052.htm
+https://www.bls.gov/oes/current/oes533053.htm | Shuttle Drivers and Chauffeurs | oes533053.htm
+https://www.bls.gov/oes/current/oes533054.htm | Taxi Drivers | oes533054.htm
+https://www.bls.gov/oes/current/oes533099.htm | Motor Vehicle Operators, All Other | oes533099.htm
+https://www.bls.gov/oes/current/oes534011.htm | Locomotive Engineers | oes534011.htm
+https://www.bls.gov/oes/current/oes534013.htm | Rail Yard Engineers, Dinkey Operators, and Hostlers | oes534013.htm
+https://www.bls.gov/oes/current/oes534022.htm | Railroad Brake, Signal, and Switch Operators and Locomotive Firers | oes534022.htm
+https://www.bls.gov/oes/current/oes534031.htm | Railroad Conductors and Yardmasters | oes534031.htm
+https://www.bls.gov/oes/current/oes534041.htm | Subway and Streetcar Operators | oes534041.htm
+https://www.bls.gov/oes/current/oes534099.htm | Rail Transportation Workers, All Other | oes534099.htm
+https://www.bls.gov/oes/current/oes535011.htm | Sailors and Marine Oilers | oes535011.htm
+https://www.bls.gov/oes/current/oes535021.htm | Captains, Mates, and Pilots of Water Vessels | oes535021.htm
+https://www.bls.gov/oes/current/oes535022.htm | Motorboat Operators | oes535022.htm
+https://www.bls.gov/oes/current/oes535031.htm | Ship Engineers | oes535031.htm
+https://www.bls.gov/oes/current/oes536011.htm | Bridge and Lock Tenders | oes536011.htm
+https://www.bls.gov/oes/current/oes536021.htm | Parking Attendants | oes536021.htm
+https://www.bls.gov/oes/current/oes536031.htm | Automotive and Watercraft Service Attendants | oes536031.htm
+https://www.bls.gov/oes/current/oes536032.htm | Aircraft Service Attendants | oes536032.htm
+https://www.bls.gov/oes/current/oes536041.htm | Traffic Technicians | oes536041.htm
+https://www.bls.gov/oes/current/oes536051.htm | Transportation Inspectors | oes536051.htm
+https://www.bls.gov/oes/current/oes536061.htm | Passenger Attendants  | oes536061.htm
+https://www.bls.gov/oes/current/oes536099.htm | Transportation Workers, All Other  | oes536099.htm
+https://www.bls.gov/oes/current/oes537011.htm | Conveyor Operators and Tenders | oes537011.htm
+https://www.bls.gov/oes/current/oes537021.htm | Crane and Tower Operators | oes537021.htm
+https://www.bls.gov/oes/current/oes537031.htm | Dredge Operators | oes537031.htm
+https://www.bls.gov/oes/current/oes537041.htm | Hoist and Winch Operators | oes537041.htm
+https://www.bls.gov/oes/current/oes537051.htm | Industrial Truck and Tractor Operators | oes537051.htm
+https://www.bls.gov/oes/current/oes537061.htm | Cleaners of Vehicles and Equipment | oes537061.htm
+https://www.bls.gov/oes/current/oes537062.htm | Laborers and Freight, Stock, and Material Movers, Hand | oes537062.htm
+https://www.bls.gov/oes/current/oes537063.htm | Machine Feeders and Offbearers | oes537063.htm
+https://www.bls.gov/oes/current/oes537064.htm | Packers and Packagers, Hand | oes537064.htm
+https://www.bls.gov/oes/current/oes537065.htm | Stockers and Order Fillers | oes537065.htm
+https://www.bls.gov/oes/current/oes537071.htm | Gas Compressor and Gas Pumping Station Operators | oes537071.htm
+https://www.bls.gov/oes/current/oes537072.htm | Pump Operators, Except Wellhead Pumpers | oes537072.htm
+https://www.bls.gov/oes/current/oes537073.htm | Wellhead Pumpers | oes537073.htm
+https://www.bls.gov/oes/current/oes537081.htm | Refuse and Recyclable Material Collectors | oes537081.htm
+https://www.bls.gov/oes/current/oes537121.htm | Tank Car, Truck, and Ship Loaders | oes537121.htm
+https://www.bls.gov/oes/current/oes537199.htm | Material Moving Workers, All Other | oes537199.htm
